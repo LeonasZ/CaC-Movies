@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         else {
             console.log("El formulario es valido")
-            window.location.href = 'index.html';
+            window.location.href = 'https://leonasz.github.io/CaC-Movies/principal.html';
         }
     })
 
